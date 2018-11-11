@@ -1,0 +1,26 @@
+Airport,PER,Perth,Perth Airport,,,,,,,
+Airport,BNE,Brisbane,Brisbane Airport,,,,,,,
+Airport,MEL,Melbourne,Melbourne International Airport,,,,,,,
+Airport,SYD,Sydney,Sydney Kings Smith International Airport,,,,,,,
+Carrier,JS,Jetstar,,,,,,,,
+Carrier,VJ,Vietjet,,,,,,,,
+Flight,JS100,MEL,SYD,JS,8,0,10,0,1000,120
+Flight,JS101,MEL,SYD,JS,9,30,11,25,800,90
+Flight,JS102,MEL,SYD,VJ,10,0,11,55,900,80
+Flight,JS103,MEL,BNE,JS,8,0,9,0,500,60
+Flight,JS104,MEL,BNE,JS,8,0,9,5,550,50
+Flight,JS105,MEL,PER,VJ,10,0,11,5,600,80
+Flight,JS106,MEL,PER,JS,20,30,21,45,600,80
+Flight,JS107,BNE,SYD,JS,12,30,13,50,500,60
+Flight,JS108,BNE,SYD,VJ,13,15,14,45,400,70
+Flight,JS109,PER,SYD,JS,15,0,16,0,500,60
+Flight,JS110,SYD,MEL,JS,8,0,10,0,1000,120
+Flight,JS111,SYD,MEL,VJ,9,45,12,5,800,90
+Flight,JS112,SYD,MEL,JS,10,30,11,30,900,80
+Flight,JS113,BNE,MEL,JS,8,55,9,55,550,60
+Flight,JS114,BNE,MEL,VJ,8,25,11,0,500,50
+Flight,JS115,PER,MEL,JS,10,30,11,30,600,80
+Flight,JS116,PER,BNE,JS,20,30,21,45,600,80
+Flight,JS117,SYD,BNE,VJ,12,45,14,45,500,60
+Flight,JS118,SYD,PER,JS,12,45,13,45,400,70
+Flight,JS119,SYD,PER,JS,15,50,16,50,500,60

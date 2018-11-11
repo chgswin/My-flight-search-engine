@@ -1,0 +1,44 @@
+﻿  stdafx.cpp
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\flightsearchapi.h(693): warning C4633: XML document comment applied to 'MultiFlights.AddFlight(Flight*)': error:  'f' is not a parameter named in the declaration of this function.
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\flightsearchapi.h(1071): warning C4633: XML document comment applied to 'Search.Execute(MapSingleton*,Airport*,Airport*,UserPreference*,System.Int32*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)': error:  'rank' is not a parameter named in the declaration of this function.
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\flightsearchapi.h(1071): warning C4633: XML document comment applied to 'Search.Execute(MapSingleton*,Airport*,Airport*,UserPreference*,System.Int32*!System.Runtime.CompilerServices.IsImplicitlyDereferenced)': error:  'maximumFlights' is not a parameter named in the declaration of this function.
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\flightsearchapi.h(1146): warning C4018: '<': signed/unsigned mismatch
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\exploreform.h(366): warning C4018: '>': signed/unsigned mismatch
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\main_form.h(962): warning C4018: '<': signed/unsigned mismatch
+  Admin.cpp
+  Airport.cpp
+  AirportInventory.cpp
+  AssemblyInfo.cpp
+  Carrier.cpp
+  CarrierInventory.cpp
+  Compare.cpp
+  ExploreForm.cpp
+  Factory.cpp
+  Flight.cpp
+  FlightInventory.cpp
+  FlightsDetailForm.cpp
+  Itinerary.cpp
+  LoginForm.cpp
+  MapSingleton.cpp
+  MultiFlights.cpp
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\multiflights.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  Search.cpp
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\search.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\search.cpp(59): warning C4018: '<=': signed/unsigned mismatch
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\search.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  SearchHistoryForm.cpp
+  SearchPreferenceForm.cpp
+  Sort.cpp
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\sort.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+e:\y1\oop\semesterproject\guiver6.2-namechange - copy\gui1\gui1\compare.cpp(33): warning C4715: 'Compare::operator()': not all control paths return a value
+  Compiling...
+  StandardUser.cpp
+  Time.cpp
+  User.cpp
+  UserControl.cpp
+  UserPreference.cpp
+  main.cpp
+  main_form.cpp
+  Generating Code...
+  GUI1.vcxproj -> E:\Y1\OOP\SemesterProject\GUIver6.2-NameChange - Copy\GUI1\Debug\GUI1.exe

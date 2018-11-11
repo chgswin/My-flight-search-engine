@@ -1,0 +1,140 @@
+Airport,PER,Perth,Perth Airport,,,,,,,
+Airport,BNE,Brisbane,Brisbane Airport,,,,,,,
+Airport,MEL,Melbourne,Melbourne International Airport,,,,,,,
+Airport,SYD,Sydney,Sydney Kings Smith International Airport,,,,,,,
+Airport,PEK,Beijing, Beijing Capital International Airport,,,,,,,
+Airport,DXB,Dubai, Dubai International Airport,,,,,,,
+Airport,HND,Tokyo, Tokyo Haneda Airport,,,,,,,
+Airport,HKG,Hong Kong, Hong Kong International Airport,,,,,,,
+Airport,PVG,Shanghai, Shanghai Pudong International Airport,,,,,,,
+Airport,CAN,Guangzhou, Guangzhou Baiyun International Airport,,,,,,,
+Airport,DEL,Delhi, Indira Gandhi International Airport,,,,,,,
+Airport,KUL,Kuala Lumpur, Kuala Lumpur International Airport,,,,,,,
+Airport,SIN,Singapore, Singapore Changi Airport,,,,,,,
+Airport,ICN,Seoul, Incheon International Airport,,,,,,,
+Airport,BKK,Bangkok, Suvarnabhumi Airport,,,,,,,
+Airport,FUK,Fukuoka, Fukuoka Airport,,,,,,,
+Airport,CTU,Chengdu, Chengdu Shuangliu International Airport,,,,,,,
+Airport,BOM,Mumbai, Chhatrapati Shivaji International Airport,,,,,,,
+Airport,SZX,Shenzhen, Shenzhen Bao'an International Airport,,,,,,,
+Airport,TPE,Taipei, Taiwan Taoyuan International Airport,,,,,,,
+Airport,KMG,Kunming, Kunming Changshui International Airport,,,,,,,
+Airport,MNL,Manila, Ninoy Aquino International Airport,,,,,,,
+Airport,SHA,Shanghai, Shanghai Hongqiao International Airport,,,,,,,
+Airport,XIY,Xi'an, Xi'an Xianyang International Airport,,,,,,,
+Airport,NRT,Tokyo, Narita International Airport,,,,,,,
+Airport,CKG,Chongqing, Chongqing Jiangbei International Airport,,,,,,,
+Airport,DMK,Bangkok, Don Mueang International Airport,,,,,,,
+Airport,SGN,Ho Chi Minh City, Tan Son Nhat International Airport,,,,,,,
+Airport,DOH,Doha, Hamad International Airport,,,,,,,
+Airport,HGH,Hangzhou, Hangzhou Xiaoshan International Airport,,,,,,,
+Airport,JED,Jeddah, King Abdulaziz International Airport,,,,,,,
+Airport,SAW,Istanbul, Sabiha Gökçen International Airport,,,,,,,
+Airport,CJU,Jeju, Jeju International Airport,,,,,,,
+Airport,KIX,Greater Osaka Area, Kansai International Airport,,,,,,,
+Airport,AYT,Antalya, Antalya Airport,,,,,,,
+Airport,NKG,Nanjing, Nanjing Lukou International Airport,,,,,,,
+Airport,GMP,Seoul, Gimpo International Airport,,,,,,,
+Airport,BLR,Bangalore, Kempegowda International Airport,,,,,,,
+Airport,RUH,Riyadh, King Khalid International Airport,,,,,,,
+Airport,XMN,Xiamen, Xiamen Gaoqi International Airport,,,,,,,
+Airport,CGO,Zhengzhou, Zhengzhou Xinzheng International Airport,,,,,,,
+Airport,CSX,Changsha, Changsha Huanghua International Airport,,,,,,,
+Airport,AUH,Abu Dhabi, Abu Dhabi International Airport,,,,,,,
+Airport,CGK,Jakarta, Soekarno–Hatta International Airport,,,,,,,
+Airport,WUH,Wuhan, Wuhan Tianhe International Airport,,,,,,,
+Airport,TAO,Qingdao, Qingdao Liuting International Airport,,,,,,,
+Airport,HAN,Hanoi, Noi Bai International Airport,,,,,,,
+Airport,CTS,Sapporo, New Chitose Airport,,,,,,,
+Airport,DPS,Denpasar, Ngurah Rai International Airport,,,,,,,
+Airport,HAK,Haikou, Haikou Meilan International Airport,,,,,,,
+Airport,SUB,Surabaya, Juanda International Airport,,,,,,,
+Airport,URC,Ürümqi, Ürümqi Diwopu International Airport,,,,,,,
+Airport,SYX,Tianjin, Tianjin Binhai International Airport,,,,,,,
+Airport,TLV,Central District, Ben Gurion Airport,,,,,,,
+Airport,OKA,Naha, Naha Airport,,,,,,,
+Airport,DAD,Da Nang,Da Nang International Airport,,,,,,,
+Airport,MAA,Chennai, Chennai International Airport,,,,,,,
+Carrier,JS,Jetstar,,,,,,,,
+Carrier,QS,Qantas,,,,,,,,
+Carrier,SQ,Singapore Airlines,,,,,,,,
+Flight,SQ850,SIN,CAN,SQ,8,20,12,20,0,0
+Flight,SQ852,SIN,CAN,SQ,20,15,0,15,0,0
+Flight,SQ176,SIN,HAN,SQ,9,20,11,40,0,0
+Flight,SQ188,SIN,HAN,SQ,15,15,17,35,0,0
+Flight,MI654,SIN,HAN,SQ,15,25,17,55,0,0
+Flight,SQ178,SIN,SGN,SQ,9,45,10,55,0,0
+Flight,SQ184,SIN,SGN,SQ,13,30,14,40,0,0
+Flight,SQ186,SIN,SGN,SQ,17,25,18,35,0,0
+Flight,SQ890,SIN,HKG,SQ,7,30,11,20,0,0
+Flight,SQ860,SIN,HKG,SQ,8,40,12,40,0,0
+Flight,SQ856,SIN,HKG,SQ,9,55,13,55,0,0
+Flight,SQ866,SIN,HKG,SQ,13,5,17,5,0,0
+Flight,SQ872,SIN,HKG,SQ,15,5,18,50,0,0
+Flight,SQ2,SIN,HKG,SQ,18,30,22,15,0,0
+Flight,SQ868,SIN,HKG,SQ,19,55,23,50,0,0
+Flight,SQ1734,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ2600,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ3466,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ4332,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ5198,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ6064,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ6930,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ7796,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ8662,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ9528,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ10394,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ11260,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ12126,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ12992,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ13858,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ14724,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ15590,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ16456,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ17322,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ18188,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ19054,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ19920,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ20786,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ21652,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ22518,SIN,HKG,SQ,0,0,0,0,0,0
+Flight,SQ970,SIN,BKK,SQ,7,10,8,35,0,0
+Flight,SQ972,SIN,BKK,SQ,9,35,11,5,0,0
+Flight,SQ974,SIN,BKK,SQ,12,50,14,20,0,0
+Flight,SQ976,SIN,BKK,SQ,16,0,17,25,0,0
+Flight,SQ982,SIN,BKK,SQ,17,30,19,0,0,0
+Flight,SQ978,SIN,BKK,SQ,18,35,20,0,0,0
+Flight,SQ800,SIN,PEK,SQ,1,10,7,15,0,0
+Flight,SQ802,SIN,PEK,SQ,8,30,14,40,0,0
+Flight,SQ806,SIN,PEK,SQ,16,50,23,0,0,0
+Flight,SQ255,SIN,BNE,SQ,0,45,10,35,0,0
+Flight,SQ245,SIN,BNE,SQ,9,40,19,30,0,0
+Flight,SQ235,SIN,BNE,SQ,21,30,7,5,0,0
+Flight,SQ265,SIN,BNE,SQ,7,20,16,45,0,0
+Flight,MI936,SIN,CTU,SQ,12,45,17,20,0,0
+Flight,MI938,SIN,CTU,SQ,17,45,22,10,0,0
+Flight,MI972,SIN,CKG,SQ,7,0,11,35,0,0
+Flight,MI976,SIN,CKG,SQ,13,55,18,10,0,0
+Flight,MI980,SIN,CKG,SQ,18,30,23,0,0,0
+Flight,MI632,SIN,DAD,SQ,9,0,10,45,0,0
+Flight,MI638,SIN,DAD,SQ,11,0,12,45,0,0
+Flight,JS100,MEL,SYD,JS,8,0,10,0,1000,120
+Flight,JS101,MEL,SYD,JS,9,30,11,25,800,90
+Flight,JS102,MEL,SYD,QS,10,0,11,55,900,80
+Flight,JS103,MEL,BNE,JS,8,0,9,0,500,60
+Flight,JS104,MEL,BNE,JS,8,0,9,5,550,50
+Flight,JS105,MEL,PER,QS,10,0,11,5,600,80
+Flight,JS106,MEL,PER,JS,20,30,21,45,600,80
+Flight,JS107,BNE,SYD,JS,12,30,13,50,500,60
+Flight,JS108,BNE,SYD,QS,13,15,14,45,400,70
+Flight,JS109,PER,SYD,JS,15,0,16,0,500,60
+Flight,JS110,SYD,MEL,JS,8,0,10,0,1000,120
+Flight,JS111,SYD,MEL,QS,9,45,12,5,800,90
+Flight,JS112,SYD,MEL,JS,10,30,11,30,900,80
+Flight,JS113,BNE,MEL,JS,8,55,9,55,550,60
+Flight,JS114,BNE,MEL,QS,8,25,11,0,500,50
+Flight,JS115,PER,MEL,JS,10,30,11,30,600,80
+Flight,JS116,PER,BNE,JS,20,30,21,45,600,80
+Flight,JS117,SYD,BNE,QS,12,45,14,45,500,60
+Flight,JS118,SYD,PER,JS,12,45,13,45,400,70
+Flight,JS119,SYD,PER,JS,15,50,16,50,500,60
