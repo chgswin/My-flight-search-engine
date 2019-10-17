@@ -5,9 +5,9 @@ The project aims to create a flight search engine app based on graph theory algo
 **2. Mathematical problem**
 The flight map is represented by a large graph, where each node is an airport and each flight is a edge connecting two nodes (connecting flights between two airports). 
 
-The nature of the problem implies that:
-1. Not every pair of airports are connected directly to each other.
-2. There may be many flights connecting two airports.
+The nature of the problem implies the graph has the following properties:
+1. Non-clique: Not every pair of airports are connected directly to each other.
+2. Multi-graph: There may be many flights connecting two airports.
 
 **3. Implementation**
 The optimization problem is to find the shortest path connecting two airports together. There are several graph algorithms to find such path, namely, Dijkstra, Bellman-Ford, A*, etc.
