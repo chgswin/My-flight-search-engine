@@ -1,6 +1,8 @@
 # My flight search engine
+##1. Motivation
 The project aims to create a flight search engine app based on graph theory algorithms.
 
+##2. Mathematical problem
 The flight map is represented by a large graph, where each node is an airport and each flight is a edge connecting two nodes (connecting flights between two airports). 
 
 The nature of the problem implies that:
